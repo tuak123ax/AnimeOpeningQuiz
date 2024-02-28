@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Anime Opening Quiz</string>
+    <string name="point">Point:</string>
+    <string name="play">PLAY</string>
+    <string-array name="ListSong">
+        <item>a_certain_scientific_accelerator</item>
+        <item>a_hiru_no_sora</item>
+        <item>ange_vierge</item>
+        <item>anime_gataris</item>
+        <item>beastars</item>
+        <item>bento</item>
+        <item>black_butler</item>
+        <item>black_clover_op10</item>
+        <item>black_clover_op9</item>
+        <item>bna</item>
+        <item>bungo_stray_dogs_season3</item>
+        <item>chain_chronicle</item>
+        <item>d_gray_man_hallow</item>
+        <item>darling_in_the_franxx</item>
+        <item> darwins_game</item>
+        <item>dimension_w</item>
+        <item>domestic_kanojo</item>
+        <item>dumbbell_nan_kilo_moteru</item>
+        <item>fairy_tail</item>
+        <item>god_of_highschool</item>
+        <item>grand_blue</item>
+        <item>gundam_build_divers</item>
+        <item>heavy_object</item>
+        <item>id_invaded</item>
+        <item>jujutsu_kaisen</item>
+        <item>kaguya_sama</item>
+        <item>kakushigoto</item>
+        <item>kimetsu_no_yaiba</item>
+        <item>koi_to_uso</item>
+        <item>koi_to_yobu_ni_wa_kimochi_warui</item>
+        <item>koi_wa_ameagari</item>
+        <item>kokkoku</item>
+        <item>mahou_sensou_ed</item>
+        <item>mob_psycho</item>
+        <item>nanbaka</item>
+        <item>netjuu_no_susume</item>
+        <item>no_guns_life</item>
+        <item>ousama_game</item>
+        <item>pet</item>
+        <item>rent_a_girlfriend</item>
+        <item>rokka_no_yuusha</item>
+        <item>saenai_heroine</item>
+        <item>san_gatsu_no_lion</item>
+        <item>sword_art_online_alicization_op1</item>
+        <item>sword_art_online_alicization_op2</item>
+        <item>the_rising_of_the_shield_hero</item>
+        <item>vinland_saga_op1</item>
+        <item>vinland_saga_op2</item>
+        <item>world_trigger</item>
+        <item>wotakoi</item>
+        <item>yakusoku_no_neverland</item>
+
+    </string-array>
+</resources>
